@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.WRAPHUMIC" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">#91BAF7</item>
+    </style>
+
+    <style name="Theme.WRAPHUMIC" parent="Base.Theme.WRAPHUMIC" />
+</resources>
